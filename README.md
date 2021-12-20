@@ -2,9 +2,9 @@
 
 ---
 
-- 🔺I’m currently working on everything at the same time.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="20"/> Python :D
-- <img src="https://www.pngkit.com/png/full/433-4338430_pepe-wow-meme-poggers-emote.png" alt="pepe" width="24"/>Pronouns: He/Him
+- <img src="https://image.winudf.com/v2/image/bGVhcm4ua2FsaWxpbnV4LnR1dG9yaWFsX2ljb25fMTUyNjAxODIwMV8wMDE/icon.png?w=&fakeurl=1" alt="kali_linux" width="24"/> I’m currently working on everything at the same time.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="24"/> Python :D
+- <img src="https://cdn.emojidex.com/emoji/seal/Pepe.png?1496036151" alt="pepe" width="24"/> Pronouns: He/Him
 
 ---
 
