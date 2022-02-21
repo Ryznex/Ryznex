@@ -25,4 +25,4 @@
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryznex&count_private=true&theme=radical)
 
-![image](https://user-images.githubusercontent.com/96372200/154958529-aa882f82-8897-46a9-86e0-1ed3c3b5bb1d.png)
+![snake gif](https://github.com/Ryznex/Ryznex/blob/output/github-contribution-grid-snake.gif)
