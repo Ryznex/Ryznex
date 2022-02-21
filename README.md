@@ -8,5 +8,19 @@
 
 ---
 
+### Listening to
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hu2tfmflzoshvnftcdulest3sm&unique={true|1|on|yes})
+-
 #### Languagues: (since 19/12/2021)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@68e637f6-6804-4ea5-b398-0c649d4f50b6/0a84bbd6-350c-4582-b6c4-79209f1c741f.png" /></a>
+-
+### Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryznex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryznex&layout=compact)](https://github.com/Ryznex)
+-
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryznex&count_private=true&theme=radical)
