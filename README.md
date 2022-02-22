@@ -7,10 +7,6 @@
 - <img src="https://cdn.emojidex.com/emoji/seal/Pepe.png?1496036151" alt="pepe" width="24"/> Pronouns: He/Him
 
 ---
-
-### Listening to
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hu2tfmflzoshvnftcdulest3sm&unique={true|1|on|yes})
--
 #### Languagues: (since 19/12/2021)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@68e637f6-6804-4ea5-b398-0c649d4f50b6/0a84bbd6-350c-4582-b6c4-79209f1c741f.png" /></a>
 -
