@@ -18,10 +18,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryznex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -
-### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryznex&layout=compact)](https://github.com/Ryznex)
--
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryznex&count_private=true&theme=radical)
 
